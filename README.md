@@ -1,4 +1,4 @@
-adding mips64 arch support in source code, and exec 'mvn -X clean install' for installing local maven repository. see patch "build-for-mips64.patch" 
+adding `mips64` arch support in source code, and exec `mvn -X clean install` for installing local maven repository. see patch `build-for-mips64.patch` 
 
 
 
